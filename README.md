@@ -1,16 +1,13 @@
-# wisata_solo
+# Aplikasi Wisata Solo
 
-A new Flutter project.
+### Library
 
-## Getting Started
+- cupertino_icons: ^1.0.2
+- google_fonts: ^3.0.1
+- get: ^4.6.5
+- flutter_statusbarcolor_ns: ^0.5.0
+- carousel_slider: ^4.1.1
 
-This project is a starting point for a Flutter application.
+### Link Download
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Unduh Release](build/app/outputs/flutter-apk/app-release.apk)
