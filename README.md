@@ -10,4 +10,4 @@
 
 ### Link Download
 
-[Unduh Release](build/app/outputs/flutter-apk/app-release.apk)
+[Unduh Release](./app-release.apk)
